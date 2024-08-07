@@ -1,0 +1,15 @@
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\bin\Debug\net8.0\sintaxe.exe
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\bin\Debug\net8.0\sintaxe.deps.json
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\bin\Debug\net8.0\sintaxe.runtimeconfig.json
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\bin\Debug\net8.0\sintaxe.dll
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\bin\Debug\net8.0\sintaxe.pdb
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.AssemblyInfoInputs.cache
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.AssemblyInfo.cs
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.sourcelink.json
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.dll
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\refint\sintaxe.dll
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.pdb
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\sintaxe.genruntimeconfig.cache
+C:\Users\Davi\git_projects\learnDotNet\sintaxe\obj\Debug\net8.0\ref\sintaxe.dll
